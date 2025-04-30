@@ -267,8 +267,10 @@ public class Client {
         //Source URL: https://www.amazontrust.com/repository/SFSRootCAG2.cer
         //Certificate #1 Details:
         //Original Format: DER
-        //Subject: CN=Starfield Services Root Certificate Authority - G2,O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
-        //Issuer: CN=Starfield Services Root Certificate Authority - G2,O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
+        //Subject: CN=Starfield Services Root Certificate Authority - G2,
+        // O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
+        //Issuer: CN=Starfield Services Root Certificate Authority - G2,
+        // O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
         //Expiration Date: 2037-12-31 23:59:59
         //Serial Number: 0
         //SHA256 Fingerprint: 568d6905a2c88708a4b3025190edcfedb1974a606a13c6e5290fcb2ae63edab5
@@ -553,8 +555,10 @@ public class Client {
         //Source URL: https://ssl-ccp.secureserver.net/repository/sfroot-g2.crt
         //Certificate #1 Details:
         //Original Format: PEM
-        //Subject: CN=Starfield Root Certificate Authority - G2,O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
-        //Issuer: CN=Starfield Root Certificate Authority - G2,O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
+        //Subject: CN=Starfield Root Certificate Authority - G2,
+        // O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
+        //Issuer: CN=Starfield Root Certificate Authority - G2,
+        // O=Starfield Technologies\, Inc.,L=Scottsdale,ST=Arizona,C=US
         //Expiration Date: 2037-12-31 23:59:59
         //Serial Number: 0
         //SHA256 Fingerprint: 2ce1cb0bf9d2f9e102993fbe215152c3b2dd0cabde1c68e5319b839154dbb7f5
